@@ -1,10 +1,10 @@
 # Meu Calendário
 
-Um calendário interativo que integra planejamento diário, acompanhamento de tarefas e anotaçoes personalizadas.
+Um calendário interativo que integra planejamento diário, acompanhamento de tarefas e anotações personalizadas.
 
-Sua importância está em ajudar os usuários a manter o foco, cumprir e equilibrar compromissos pessoais e profissionais.
+Sua importância está em ajudar os usuários a manter o foco, cumprir e equilibrar compromissos, pessoais e profissionais.
 
-Ele resolve proplemas comuns como esqucimento de eventos, sobrecarga de tarefas e falta de clareza nas prioridades, promovedo uma rotina mais produtiva e menos estressante.
+Ele resolve problemas comuns como: esqucimento de eventos, sobrecarga de tarefas e falta de clareza nas prioridades, promovedo uma rotina mais produtiva e menos estressante.
 
 Utilizamos as linguagens:
 - JavaScript;
